@@ -261,8 +261,6 @@ jobs:
           testflight_expiration_warning \
           algorithm_experiments \
           override_sens \
-          omnipod_cage \
-          dexcom_sage \
           dexcom_upload_readings 
   
           # the final customization listed above CANNOT have a continuation character "\"
