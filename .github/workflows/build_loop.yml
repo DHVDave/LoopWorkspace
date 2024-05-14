@@ -257,8 +257,7 @@ jobs:
           no_auth \
           customtypeone_looppatches \
           2002 \
-          override_sens \
-          dexcom_upload_readings 
+          override_sens 
   
           # the final customization listed above CANNOT have a continuation character "\"
           # more customizations can be pasted after this line
