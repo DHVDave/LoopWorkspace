@@ -257,7 +257,6 @@ jobs:
           no_auth \
           customtypeone_looppatches \
           2002 \
-          testflight_expiration_warning \
           algorithm_experiments \
           override_sens \
           dexcom_upload_readings 
