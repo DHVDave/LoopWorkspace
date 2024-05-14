@@ -256,7 +256,6 @@ jobs:
           high_carb_limit \
           no_auth \
           customtypeone_looppatches \
-          now_line \
           2002 \
           testflight_expiration_warning \
           algorithm_experiments \
