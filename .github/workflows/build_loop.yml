@@ -257,7 +257,6 @@ jobs:
           no_auth \
           customtypeone_looppatches \
           2002 \
-          algorithm_experiments \
           override_sens \
           dexcom_upload_readings 
   
