@@ -256,7 +256,7 @@ jobs:
           high_carb_limit \
           no_auth \
           # customtypeone_looppatches \
-          2002 \
+          # 2002 \
           override_sens 
   
           # the final customization listed above CANNOT have a continuation character "\"
