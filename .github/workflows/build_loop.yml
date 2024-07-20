@@ -255,7 +255,7 @@ jobs:
           future_carbs_4h \
           high_carb_limit \
           no_auth \
-          customtypeone_looppatches \
+          # customtypeone_looppatches \
           2002 \
           override_sens 
   
