@@ -254,10 +254,14 @@ jobs:
           dexcom_upload_readings \
           future_carbs_4h \
           high_carb_limit \
-          no_auth
+          no_auth \
+          profiles \
+          live_activity \
+          watch_title \
+          basal_lock \
           # customtypeone_looppatches \
           # 2002 \
-          # override_sens 
+          override_sens 
   
           # the final customization listed above CANNOT have a continuation character "\"
           # more customizations can be pasted after this line
